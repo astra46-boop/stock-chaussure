@@ -1,0 +1,9 @@
+{
+  "name": "Mon Stock – Chaussures",
+  "short_name": "Mon Stock",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8f3ea",
+  "theme_color": "#e9ddca",
+  "lang": "fr"
+}
